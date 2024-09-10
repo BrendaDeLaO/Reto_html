@@ -1,0 +1,21 @@
+body{
+    background-color: chocolate;
+}
+
+h1{
+    color: rgb(241, 238, 234);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h2{
+   color: rgb(49, 13, 13);
+}
+
+h3 {
+    color: rgb(75, 65, 37);
+}
+p {
+    color: azure;
+    font-family: cursive;
+}
